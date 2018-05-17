@@ -1,5 +1,7 @@
 # Introduction
 
+[![Join the chat at https://gitter.im/gnosis/pm-apollo-docs](https://badges.gitter.im/gnosis/pm-apollo-docs.svg)](https://gitter.im/gnosis/pm-apollo-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Towards the end of 2017, Gnosis hosted a prediction market tournament called [Olympia](https://blog.gnosis.pm/announcing-gnosis-olympia-5fb7e16dd259). It combined [pm-trading-db](https://github.com/gnosis/pm-trading-db), the [core smart contracts](https://github.com/gnosis/pm-contracts), and the pm-js library in the context of a [user interface](https://github.com/gnosis/pm-trading-ui) we've been developing (we've also created a separate repository for the interface used in the original tournament run, but the work done there is slated to be refactored into a feature flag for the generic interface).
 
 Apollo will cover the configuration and operation of such a tournament. Here are the tools we will be starting out with:
